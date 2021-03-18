@@ -1,2 +1,3 @@
 asdasdasdasdasd
 membuat web ecommerce
+membuat koneksi database
